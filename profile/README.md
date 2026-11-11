@@ -51,7 +51,7 @@ Colony Labs is a two-person group. Reports are signed with OpenPGP, and each key
 
 | Product | Vendor | Reported | Coordinators | Advisories | Disclosure |
 |---|---|---|---|:---:|---|
-| NIKKE PC launcher for Windows | Level Infinite / Proxima Beta | 2026-11-08, addendum 2026-11-10 | SingCERT, KrCERT/CC, JPCERT/CC, CISA | 10 | 2026-12-08, or earlier for findings fixed and verified before then |
+| NIKKE PC launcher for Windows | Level Infinite / Proxima Beta | 2026-11-08, addendum 2026-11-10 | SingCERT, KrCERT/CC, JPCERT/CC | 10 | 2026-12-08, or earlier for findings fixed and verified before then |
 
 Players who want to check their PC can use [NIKKE Launcher Check](https://github.com/MotherSphere/NIKKE-Launcher-Check) and read the [incident write-up](https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5).
 
